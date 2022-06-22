@@ -77,6 +77,12 @@ WebDriver driver;
 		ZerodhaPinPage zerodhaPinpage = new ZerodhaPinPage(driver);
 		zerodhaPinpage.clickOnSignUp();
 	}
-	
-	
+	@Test 
+	public void git() {
+		System.out.println("gitadded");
+	}
+	@Test 
+	public void git1() {
+		System.out.println("gitadded");
+	}
 }
